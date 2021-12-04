@@ -1,0 +1,199 @@
+Rolls clasicos
+
+Roll california
+karikama y palta envuelto en alga nori, arroyz y sésamo.
+
+Roll vegetariano
+Palta, zanahoria, queso philadelhpia envuelto en alga, arroz y sésamo
+
+Roll atún
+atún al natural envuelto en alga, arroz y sésamo
+
+Roll New York
+Salmón rosado, palta y queso philadelphia envuelto en alga nori, arroz y sésamo
+
+Roll New York Phila
+Salmón rosado y queso philadelphia envuelto en envuelto en alga nori, arroz y sésamo
+
+Roll Philadelphia
+Salmón rosado y queso philadelphia envuelto en alga nori, arroz y sésamo
+
+Roll Langostino
+Langostinos hervidos al vapor y queso philadelphia envuelto en alga nori, arroz y sésamo
+
+New Cheese
+Salmón rebozado en panko y frito, queso philadelphia envuelto en alga, arroz y sésamo
+
+Golden 
+Queso philadelphia y palta envuelto en alga nori, arroz y cubierto con salmon rosado.
+
+Ahumado Roll
+Salmón ahumado, palta, queso philadelphia envuelto en alga nori, arroz y sésamo.
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+Rolls especiales
+
+Trisalmón
+Relleno de salmon rebozado, tartar de salmon y palta cubierto con salmon fresco.
+
+Pasión Roll
+Relleno de langostinos rebozados en panko y queso philadelphia cubierto con mango y salsa de maracuyá.
+
+Buenos Aires
+Langostinos, queso philadelphia y palta cubierto con salmón rosado.
+
+Tamago
+Salmón y queso philadelphia cubierto en tamago.
+
+Fresh Roll
+Salmón rosado envuelto en arroz y cubierto de palta.
+
+Crazy Roll
+Queso philadelphia, palta y arroz envuelto en alga nori cubierto con salmón.
+
+Boston
+Salmón ahumado, queso philadelphia y durazno envuelto en arroz y sésamo.
+
+Green Roll
+Relleno de cebolla crocante, queso philadelphia y espárrago cubierto con palta.
+
+Ebiteri
+Relleno de langostino rebozado en panko y queso philadelphia cubierto con salmón y decorado con limón.
+
+Tataki Roll
+Relleno de salmón coronado con tartar de salmón y verdeo.
+
+Wacamole Roll
+Salmón y queso philadelphia envuelto en alga nori y arroz coronado con wacamole.
+
+Avocado Roll
+Salmóñ rebozado en panko envuelto en alga nori y arroz cubierto con palta.
+
+Ed Fried Roll
+Relleno de langostino rebozado en panko con salsa de miel y mostaza.
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+Nigiris
+
+Salmón
+Brocado de arroz cubierto con salmón.
+
+Ahumado
+Bocado de arroz cubierto con salmón ahumado.
+
+///////////////////////////////////////////////////////////////////////////
+
+Geishas
+
+Salmón
+Queso philadelphia y palta envuelto en fino corte de salmón.
+
+Geishas tropical
+Queso philadelphia y mango envuelto en fino corte de salmón y salsa maracuyá
+
+Langostino
+Queso philadelphia y langostino envuelto en fino corte de salmón
+
+Ahumado
+Queso philadelphia y palta envuelto en fino corte de salmón ahumado.
+
+////////////////////////////////////////////////////////////////////////////////////
+
+Sashimis
+
+Salmón
+Finos cortes de lomo de salmón rosado.
+
+////////////////////////////////////////////////////////////////////
+
+Harumaki
+Arrollados fritos de masa crocante rellenos de carne y verdura
+
+////////////////////////////////////////////////////////////////////////////////
+
+Sushi Salad
+
+Clásica
+Arroz al estilo japonés , queso philadelphia, palta y salmón cortado en cubos
+
+Langostinos
+Arroz al estilo japonés, queso philadelphia, palta y langostinos hervidos al vapor.
+
+Ebi Lango
+Arroz al estilo japonés, queso philadelphia, palta y langostinos rebozados en panko.
+
+Salmon Crunch
+Arroz al estilo japonés , queso philadelphia, palta y salmón rebozado en panko.
+
+Adicionales: Salsa Buenos Aires (Soja, miel y sésamo)- Salsa de soja - Jengibre - Salsa Miel y mostaza - Wasabi - Palitos
+
+
+////////////////////////////////////////////////////////////////////////////////////
+
+Makis
+
+Salmón
+Roll cubierto con alga nori, relleno de arroz y salmón rosado.
+
+Ahumado
+Roll cubierto con alga nori, relleno de arroz y salmón ahumado.
+
+Kanikama
+Roll cubierto con alga nori, relleno de arroz y kanikama.
+
+Atún
+Roll cubierto con alga nori, relleno de arroz y atún.
+
+Vegetariano
+Roll cubierto con alga nori, relleno de arroz, zanahoria, pepino y palta.
+
+////////////////////////////////////////////////////////////////////////////////////
+
+Hots Rolls
+
+Hot Age
+Roll sin arroz relleno con salmón, queso philadelphia y palta, rebozado en panko y frito.
+
+Hot Phila
+Roll relleno con salmón y queso philadelphia envuelto en arroz, rebozado en panko y frito.
+
+Hot Lango
+Roll relleno de langostino y queso philadelphia envuelto en arroz, rebozado en panko y frito.
+
+Mariachi
+Roll relleno de salmón y queso philadelphia coronado con guacamole, rebozado en panko y frito.
+
+////////////////////////////////////////////////////////////////////////////////////
+
+Futomakis
+
+Phila
+Roll relleno de arroz, salmón y queso philadelphia envuelto en alga nori.
+
+Atún
+Roll relleno de arroz y atún, envuelto en alga nori.
+
+New York Phila
+Relleno de arroz, salmón, queso philadelphia y palta envuelto en alga nori.
+
+Vegetariano
+Relleno de arroz, zanahoria, queso philadelphia y palta envuelto en alga nori.
+
+////////////////////////////////////////////////////////////////////////////////////
+
+Combinados
+
+Variado
+Incluye: California, atún, philadelphia y makis de salmón.
+
+Todo salmón
+Incluye: Philadelphia, new york, golden, nigiris y makis de salmón.
+
+Combinado Hot
+Incluye: Hot age, hot phila, hot lango, mariachi y harumakis.
+
+Premium
+Incluye: Buenos Aires, tamago, ahumado, tataki, geishas, nigiris y sashimis.

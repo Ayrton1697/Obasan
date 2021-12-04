@@ -1,0 +1,74 @@
+.header{
+   
+    background-color: greenyellow;
+    grid-column: full-start/full-end;
+   
+    background:   linear-gradient(rgba(black,0.2), rgba($color-primary,0.2)),
+    url(../img/portada.JPG);
+    background:  url(../img/portada.JPG);
+    background-position:  left;
+    background-size: cover;
+
+    background-color: black;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    justify-content: center;
+    align-content: center;
+    position: relative;
+
+    @media (max-width:$tab-port){
+        padding: 8rem;
+        background:   linear-gradient(rgba(black,0.2), rgba($color-primary,0.2)),
+        url(../img/portada.JPG);
+        background-position: bottom left;
+        background-size: cover;
+    }
+    @media (max-width:$phone){
+        padding: 0rem;
+        background:   linear-gradient(rgba(black,0.7), rgba($color-primary,0.2)),
+        url(../img/portada.JPG);
+        background-position: center;
+        background-size: cover;
+    }
+    // align-items: center;
+
+    &__image{
+        width: 85%; 
+        position: absolute;
+        top: 0%;
+        right: 0%;
+
+        @media (max-width:$tab-port){
+            display: none;
+
+        }
+    }
+    &__logo{
+        grid-column: 1;
+        grid-row: 3;
+        align-self: start;
+        justify-self: center;
+        justify-items: center;
+        z-index: 1;
+
+        @media (max-width:$phone){
+            grid-column: 2;
+            grid-row: 3;
+        }
+    }
+    &__btn{
+        text-transform: uppercase;
+        letter-spacing: .1rem;
+        align-self: center;
+        justify-self: center;
+        grid-row: 4;
+        grid-column: 1;
+        z-index: 2;
+        
+        @media (max-width:$phone){
+            grid-column: 2;
+            grid-row: 4;
+        }
+    }
+}

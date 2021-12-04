@@ -1,0 +1,44 @@
+@font-face{
+    font-family: 'libel';
+    src:url(../fonts/libel.ttf);
+}
+$color-primary:#6A9404;
+$color-primary-light:#a5d62a;
+$color-primary-dark:#527004;
+$color-secondary: #101d2c;
+
+$font-primary:'libel', sans-serif;
+
+$tab-land: 75em; //1200px
+$tab-port: 56.25em; //900px
+$phone: 37.5em; //600 px
+
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+    -webkit-text-size-adjust: none;
+
+    @media (max-width:$tab-land){
+        font-size: 56.25%;
+    }
+    @media (max-width:$phone){
+        font-size: 30%;
+    }
+}
+*,*::after,*::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+body{
+    font-family: $font-primary;
+ 
+   
+}
+.container{
+    display: grid;
+    grid-template-rows: 100vh repeat(4, min-content);
+    grid-template-columns: [full-start gutter-start] minmax(6rem, 1fr) [gutter-end center-start] 
+                            repeat(4, [col-start] minmax(min-content, 14rem) [col-end])
+                            [center-end] minmax(6rem, 1fr) [full-end];
+}
